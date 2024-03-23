@@ -18,4 +18,3 @@ And let's have one fun & interactive
        width="1100"
        height="600"
        >
-</embed>
