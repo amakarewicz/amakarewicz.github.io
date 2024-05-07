@@ -84,3 +84,10 @@ Analyzing the map, it becomes evident that a substantial surge in tree planting 
 Over the years leading up to 2021, Southbank witnessed a remarkable growth from 68 to over 700 trees, while Docklands experienced an even more pronounced increase, from 400 to over 2900 trees. These numbers underscore the effective implementation of the strategy, particularly in areas with lower canopy cover.
 
 Across most districts, a consistent annual planting of 50 to 1000 trees was observed. However, fewer trees were planted in inner districts like the CBD and West Melbourne, possibly due to their smaller area and dense urban infrastructure.
+
+<embed 
+       type="text/html" 
+       src="/periodic.html"
+       width="1100"
+       height="600"
+       >
