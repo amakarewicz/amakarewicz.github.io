@@ -87,7 +87,7 @@ Across most districts, a consistent annual planting of 50 to 1000 trees was obse
 
 <embed 
        type="text/html" 
-       src="periodic.html"
+       src="/plots/periodic.html"
        width="1100"
        height="600"
        >
