@@ -22,11 +22,7 @@ We can easily observe, that there is one dominating family/genre/species of tree
 
 In this section, we will take a closer look at how the number of planted trees evolved. Firstly we will see the developments on the map and later we will inspect what the seasonality looks like. 
 
-<embed 
-       type="text/html" 
-       src="/plots/ts_map2.html"
-       width="700"
-       height="690">
+<iframe src="/plots/ts_map.html" width="800" height="620"></iframe>
 
 *Figure 2: Distribution of trees planted in Melbourne over the months between December 2004 and December 2021. We can see that trees are often planted in close proximity to parks and streets.*
 
@@ -70,11 +66,7 @@ Having witnessed the noticeable rise in greenery within the city from above, it'
 One of the targets set out in the Urban Forest Strategy was to increase the canopy cover of the city to 40%. Canopy cover is a measure of the physical coverage of the tree canopy over the land. It represents 
 a way of expressing, as a percentage, how much of any given area is shaded by trees. Although we couldn't directly measure this metric, we monitored the number of new trees planted, providing a partial view. While this doesn't capture the entire scenario, as some trees may be removed or reach the end of their lifespan, it does offer insights into the city's progress toward its target. Notably, areas with the lowest canopy cover include Parkville (19.4%), Southbank (14.2%), and Docklands (6.4%).
 
-<embed 
-       type="text/html" 
-       src="/plots/district_interactive_map.html"
-       width="800"
-       height="600">
+<iframe src="/plots/district_interactive_map.html" width="850" height="650"></iframe>
 
 *Figure 7: The choropleth map displays the cumulative count of trees planted in different districts of Melbourne over the period spanning from 2012 to 2021. Each district is shaded with a color gradient, representing the number of planted trees, with darker shades indicating higher counts. Hovering over the polygons, we can see the exact number of the trees as well as district name and area.*
 
@@ -84,10 +76,3 @@ Analyzing the map, it becomes evident that a substantial surge in tree planting 
 Over the years leading up to 2021, Southbank witnessed a remarkable growth from 68 to over 700 trees, while Docklands experienced an even more pronounced increase, from 400 to over 2900 trees. These numbers underscore the effective implementation of the strategy, particularly in areas with lower canopy cover.
 
 Across most districts, a consistent annual planting of 50 to 1000 trees was observed. However, fewer trees were planted in inner districts like the CBD and West Melbourne, possibly due to their smaller area and dense urban infrastructure.
-
-<embed 
-       type="text/html" 
-       src="/plots/periodic.html"
-       width="1100"
-       height="600"
-       >
